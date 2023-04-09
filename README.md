@@ -1,2 +1,2 @@
 # AudioAssist
-AI communication aid for people with dysarthria. Model trained on audio, using ML to generate text output for effective communication. No additional hardware needed. Developed with Python and Tensorflow.
+This project focuses on developing an AI-powered communication aid for people with speech difficulties like dysarthria. The model will solely use audio data captured through a microphone, analyze speech patterns with machine learning algorithms, and generate a text output. The goal is to enable effective communication without additional hardware. The project will utilize Python and Tensorflow.
